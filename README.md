@@ -1,13 +1,3 @@
-# github-learning
-Learning Git and GitHub basics
-## What I Learned
-
-- Repository: Stores project files and version history.
-- Branch: An independent line of development.
-- Commit: Records changes to project files.
-- Pull Request: Proposes changes to be merged into another branch.
-- Issue: Tracks bugs, tasks, and feature requests.
-
 ## AIDev & GH Archive — Exploratory Data Analysis
 
 This repository documents my initial exploration of GitHub development activities and AI coding agent contributions.
@@ -31,3 +21,15 @@ Contains Python code, sample data exploration, event statistics, and visualizati
 
 ### Notes
 This is an exploratory project. The GH Archive analysis covers 14 hours of public GitHub events on March 20, 2026. Cross-dataset matching with AIDev remains preliminary.
+
+# github-learning
+Learning Git and GitHub basics
+## What I Learned
+
+- Repository: Stores project files and version history.
+- Branch: An independent line of development.
+- Commit: Records changes to project files.
+- Pull Request: Proposes changes to be merged into another branch.
+- Issue: Tracks bugs, tasks, and feature requests.
+
+
